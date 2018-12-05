@@ -1,0 +1,11 @@
+- mini projet à base du SPI permettant de surveiller la présence d'intrusion deja detecte par camera et de realiser les taches suibantes:
+   
+   -si l'intrus est le prop du véhicule alors le mode de fonctionnement normal du moteur sera actionné et l'alarma sera desactivée .
+    
+    et d'enregistrer le nom ,uid, heure identification. (caméra , captuer PIR)
+    
+
+    - si l'intrus n'est le prop il faut activer alarme , éteindre le moteur , enregistrer uid , heure d'identification sans oublier de notifier les services concernés.
+    
+
+    - 
